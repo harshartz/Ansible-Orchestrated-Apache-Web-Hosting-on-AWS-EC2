@@ -70,6 +70,8 @@ This project demonstrates the setup and configuration of a multi-server environm
 8. Verify the setup:
    - Access the IP addresses of `server-1`, `server-2`, and `server-3` in a web browser.
    - You should see the default Apache page indicating a successful deployment.
+  
+
 
 ![Screenshot 2023-06-18 170135](https://github.com/harshartz/Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2/assets/130890384/0c673d82-cc1b-47b9-a71a-7f108cb61155)
 
