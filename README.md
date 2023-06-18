@@ -1,4 +1,4 @@
-# Project Name
+# Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2
 
 This project demonstrates the setup and configuration of a multi-server environment using Ansible on AWS EC2. The goal of this project is to host an Apache server on multiple Ubuntu servers.
 
