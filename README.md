@@ -60,6 +60,7 @@ This project demonstrates the setup and configuration of a multi-server environm
      ```
      $ vi test.yaml
      # Add the playbook code, save, and exit.
+     ```
 7. Execute the playbook:
    - Run the following command from the Ansible project directory:
      ```
